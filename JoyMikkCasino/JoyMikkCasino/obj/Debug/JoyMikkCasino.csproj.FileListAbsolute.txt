@@ -1,0 +1,9 @@
+C:\Projects\JoyMikkCasino\JoyMikkCasino\bin\Debug\JoyMikkCasino.exe.config
+C:\Projects\JoyMikkCasino\JoyMikkCasino\bin\Debug\JoyMikkCasino.exe
+C:\Projects\JoyMikkCasino\JoyMikkCasino\bin\Debug\JoyMikkCasino.pdb
+C:\Projects\JoyMikkCasino\JoyMikkCasino\obj\Debug\JoyMikkCasino.csprojResolveAssemblyReference.cache
+C:\Projects\JoyMikkCasino\JoyMikkCasino\obj\Debug\JoyMikkCasino.Form1.resources
+C:\Projects\JoyMikkCasino\JoyMikkCasino\obj\Debug\JoyMikkCasino.Properties.Resources.resources
+C:\Projects\JoyMikkCasino\JoyMikkCasino\obj\Debug\JoyMikkCasino.csproj.GenerateResource.Cache
+C:\Projects\JoyMikkCasino\JoyMikkCasino\obj\Debug\JoyMikkCasino.exe
+C:\Projects\JoyMikkCasino\JoyMikkCasino\obj\Debug\JoyMikkCasino.pdb
